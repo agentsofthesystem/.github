@@ -44,11 +44,13 @@ can use it in The Architect without having to share it back yet.
 
 My motivation to do this stems from the idea that I truly wish this tool to be a community tool.  Even if I wind up building something that goes on to make me money, on some level I want it to be free to use for anyone with the skill, time and desire.  Also, I may also want my name on an open source tool that I created. Makes for good resume material!
 
-## Acknowledgements
+## My Inspirations
 
 I do want to take my hat off to the people that built and maintain [Pterodactyl](https://pterodactyl.io/).  In a lot of ways,
-it was an inspiration for me to build Agents of the System and go open source.
+it was an inspiration for me to build Agents of the System and go open source.  I like what was built.. I just wanted to
+do it my way.
 
-I also got a lot of inspiration from Kenneth Jiang who runs [Obico.io](obico.io), which is a 3D Printing tool that watches
+I also took a lot of inspiration from Kenneth Jiang who runs [Obico.io](obico.io), which is a 3D Printing tool that watches
 prints and uses AI to detect failures.  At one point it was known as The Spaghetti Detective.  Ken's model for making software
-open source and free for DIY types while also having a paid version is at the core of my aspirations.
+open source and free for DIY types while also having a paid version is at the core of my aspirations.  The tool is great and
+as a 3D printing geek, I cannot recommend this tool enough.
